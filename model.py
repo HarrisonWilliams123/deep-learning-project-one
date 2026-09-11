@@ -1,0 +1,7 @@
+#Imports the libraries for a simple deep learning model
+import torch
+from torch import nn
+from torch.utils.data import DataLoader
+from torchvision import datasets
+from torchvision.transforms import v2
+
